@@ -1,7 +1,8 @@
 # Metro stops CSS component
 
 This CSS component mimics a metro map, with stops.  
-This is for example useful to plan or summarize some ideas chronologically.
+This is for example useful to plan or summarize some ideas chronologically.  
+You can visit [the demo webpage](https://metro-stops.firminlaunay.me/example.html) for a real world example.
 
 ## Usage
 
