@@ -43,7 +43,7 @@ You can visit [the demo webpage](https://metro-stops.firminlaunay.me/example.htm
 </html>
 ```
 
-<img src="https://github.com/filau/metro-stops-component/raw/main/example.png"/>
+<a href="https://metro-stops.firminlaunay.me/example.html"><img src="https://github.com/filau/metro-stops-component/raw/main/example.png"/></a>
 
 ## __________
 
