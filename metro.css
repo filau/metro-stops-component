@@ -6,8 +6,14 @@ Distributed under the conditions of the LGPL-3.0 license.
 
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap');
 
+:root {
+    --metro-line-color: rgb(42, 169, 248);
+    --metro-stop-color: white;
+    --metro-stop-font: 'Jost', sans-serif;
+}
+
 .filau-metro {
-    border-left: solid rgb(42, 169, 248) 20px;
+    border-left: solid var(--metro-line-color) 20px;
     margin-left: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -18,7 +24,7 @@ Distributed under the conditions of the LGPL-3.0 license.
 .filau-metro > div {
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: 'Jost', serif;
+    font-family: var(--metro-stop-font);
     font-size: 30px;
 }
 
@@ -40,7 +46,7 @@ Distributed under the conditions of the LGPL-3.0 license.
     content: "";
     display: block;
     padding: 15px;
-    border: solid rgb(42, 169, 248) 10px;
+    border: solid var(--metro-line-color) 10px;
     border-radius: 50%;
-    background-color: white;
+    background-color: var(--metro-stop-color);
 }
