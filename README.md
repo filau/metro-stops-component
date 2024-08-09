@@ -17,7 +17,7 @@ You can visit [the demo webpage](https://metro-stops.firminlaunay.me/example.htm
     <title>Metro stops by @filau</title>
 </head>
 <body>
-    <div class="filau-metro">
+    <div class="filau-metro" style="--metro-line-color: #CD5C5C ; --metro-stop-color: #FFA07A; --metro-stop-font: 'Open Sans'">
         <div>
             <div>Info 1</div>
             <div>Element 1</div>
