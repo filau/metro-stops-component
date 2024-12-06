@@ -4,12 +4,10 @@ Metro stops by @filau.
 Distributed under the conditions of the LGPL-3.0 license.
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap');
-
 :root {
     --metro-line-color: rgb(42, 169, 248);
     --metro-stop-color: white;
-    --metro-stop-font: 'Jost', sans-serif;
+    --metro-stop-font: sans-serif;
 }
 
 .filau-metro {
