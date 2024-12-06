@@ -22,7 +22,7 @@ Distributed under the conditions of the LGPL-3.0 license.
 .filau-metro > div {
     margin-top: 30px;
     margin-bottom: 30px;
-    font-family: var(--metro-stop-font);
+    font: var(--metro-stop-font);
     font-size: 30px;
 }
 
